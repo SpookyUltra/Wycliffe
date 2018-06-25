@@ -1,0 +1,58 @@
+li{
+	font-family: Calibri;
+	list-style-type: none;
+}
+
+h1{
+	font-family: Calibri;
+	text-align: center;
+	height: 12px;
+
+}
+
+h2{
+	font-family: Calibri;
+	text-align: center;
+	font-size: 20px; 
+}
+
+a:link, a:visited {
+	color: grey;
+	text-decoration: none;
+}
+
+a:hover{
+	color: black;
+}
+
+p{
+	font-family: Calibri;
+	text-align: center;
+}
+
+#sub{
+	font-family: Georgia;
+	text-align: center;
+	font-size: 20px; 
+	height: 100px;
+	color: grey;
+	font-style: italic;
+}
+
+
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 16px;
+    text-decoration: none;
+}
+
+ul { display:table; margin:0 auto; padding-right: 40px;}
+
+img{
+	padding-bottom: 30px;
+}
